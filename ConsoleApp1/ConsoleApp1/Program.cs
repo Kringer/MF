@@ -15,6 +15,10 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
+            Console.WriteLine("My second change");
+            Console.ReadKey();
+
+
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
         }
     }
